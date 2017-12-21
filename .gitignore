@@ -1,0 +1,6 @@
+/packages/
+/Pdf.Utility/bin/
+/Pdf.Utility/obj/*
+/.vs/Pdf.Utility/v15/.suo
+/.vs/Pdf.Utility/v15/Server/sqlite3/db.lock
+/.vs/Pdf.Utility/v15/Server/sqlite3/storage.ide
